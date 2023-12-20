@@ -1,4 +1,5 @@
 import Home_Nav from './Home-Nav'
+import '../pages/home.css';
 
 function Home_Header() {
     return (

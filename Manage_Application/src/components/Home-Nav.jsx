@@ -1,4 +1,5 @@
 import {Link} from 'react-router-dom';
+import '../pages/home.css';
 
 function Home_Nav(){
     return (
