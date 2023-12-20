@@ -1,6 +1,23 @@
 .home-header {
     border: 1px solid red;
     height: auto;
+    width: 100%;
     display: flex;
-    margin: 0;
+    padding: 5px;
+    justify-content: flex-end;
+}
+
+.container-nav{
+    width: 80%;
+    text-align: right;
+    
+}
+
+.home-link {
+    margin-right: 20px;
+    font-weight: bold;
+}
+.managers-link {
+    margin-right: 20px;
+    font-weight: bold;
 }
