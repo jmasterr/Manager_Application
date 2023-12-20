@@ -1,11 +1,14 @@
-import './App.css'
 import Home from './pages/Home'
+import Managers from './pages/Managers'
 
 function App() {
 
 
   return (
-    <Home />
+    <div>
+      <Home />
+      <Managers />
+    </div>
   )
 }
 

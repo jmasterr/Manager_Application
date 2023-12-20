@@ -1,5 +1,7 @@
+import Managers_list from "../components/Managers-list";
+
 function Managers(){
-    return <h1>Managers</h1>
+    return <Managers_list />
 }
 
 export default Managers;
