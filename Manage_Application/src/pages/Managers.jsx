@@ -1,7 +1,8 @@
-import Managers_list from "../components/Managers-list";
+import Body from "../components/Body";
+import './home.css';
 
 function Managers(){
-    return <Managers_list />
+    return <Body />
 }
 
 export default Managers;
