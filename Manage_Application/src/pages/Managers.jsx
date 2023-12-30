@@ -1,5 +1,8 @@
+import Body from "../components/Body";
+import './home.css';
+
 function Managers(){
-    return <h1>Managers</h1>
+    return <Body />
 }
 
 export default Managers;
